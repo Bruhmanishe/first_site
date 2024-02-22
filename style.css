@@ -135,7 +135,7 @@ body {
   border: 3px solid #d4af6b;
 }
 .nav__menu {
-  flex: 1 1 100%;
+  flex: 1 1 90%;
   align-self: flex-end;
   display: flex;
   justify-content: flex-end;
