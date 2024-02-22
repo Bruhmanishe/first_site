@@ -102,7 +102,7 @@ body {
   background-color: rgba(205, 86, 2, 0.4117647059);
   min-width: 100%;
   min-height: 100%;
-  background-image: url(/img/cheese_bg.png);
+  background-image: url(cheese_bg.png);
   background-size: 10%;
   background-position: 50% 50%;
   animation: backGrAnim infinite 60s 0.3s linear;
@@ -127,7 +127,7 @@ body {
   margin: 0px 0px 0px 10px;
   width: 40px;
   height: 40px;
-  background-image: url(/img/icon.jpg);
+  background-image: url(icon.jpg);
   background-size: 120%;
   background-position: 60% 80%;
   background-repeat: no-repeat;
@@ -275,13 +275,13 @@ body {
   margin: 0px 0px 0px 0px;
 }
 .content__menu_fixed .sigment-cards__sigment_one .img-one {
-  background-image: url(/img/Screenshot_1.png);
+  background-image: url(Screenshot_1.png);
 }
 .content__menu_fixed .sigment-cards__sigment_two .img-two {
-  background-image: url(/img/Screenshot_2.png);
+  background-image: url(Screenshot_2.png);
 }
 .content__menu_fixed .sigment-cards__sigment_three .img-three {
-  background-image: url(/img/Screenshot_3.png);
+  background-image: url(Screenshot_3.png);
 }
 .content__menu_fixed .sigment-cards__sigment_img {
   width: 90%;
@@ -542,13 +542,13 @@ body {
     width: 200%;
   }
   .content__menu_fixed .sigment-cards__sigment_one .img-one {
-    background-image: url(/img/Screenshot_1.png);
+    background-image: url(Screenshot_1.png);
   }
   .content__menu_fixed .sigment-cards__sigment_two .img-two {
-    background-image: url(/img/Screenshot_2.png);
+    background-image: url(Screenshot_2.png);
   }
   .content__menu_fixed .sigment-cards__sigment_three .img-three {
-    background-image: url(/img/Screenshot_3.png);
+    background-image: url(Screenshot_3.png);
   }
   .content__menu_fixed .sigment-cards__sigment_img {
     width: 100%;
