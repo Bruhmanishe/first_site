@@ -568,7 +568,7 @@ body {
     background-color: rgba(163, 108, 41, 0.6);
     padding: 5%;
     border: 5px solid #d4af6b;
-    border-radius: 10px;
+    border-radius: 15px;
     text-align: start;
   }
   .content__menu_fixed .sigment-cards__sigment_text span {
