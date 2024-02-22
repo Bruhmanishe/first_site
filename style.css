@@ -528,6 +528,7 @@ body {
     justify-content: space-between;
     align-items: center;
     display: flex;
+    flex-wrap:wrap;
     flex-direction: row;
     overflow: hidden;
   }
@@ -537,7 +538,7 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 4%;
-    width: 30%;
+    width: 45%;
     height: 350px;
     background-color: #9a4a23;
   }
