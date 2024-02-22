@@ -502,6 +502,9 @@ body {
   }
 }
 @media screen and (max-width: 500px) {
+  .wrapper {
+  background-size: 30%;
+}
   .content {
     flex-direction: column;
   }
